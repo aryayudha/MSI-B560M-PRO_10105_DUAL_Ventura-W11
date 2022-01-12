@@ -8,7 +8,7 @@ My Build
     MB: MSI B560M PRO
     RAM: T-Force Zeus X 2x8GB DDR4 @3200MHz
     iGPU: -
-    dGPU: Nvidia Geforce GT740
+    dGPU: AMD Radeon RX460
     SSD: Sata ADATA 256GB
     Audio: Realtek ALC897
     LAN : Realtek RTL8125b
@@ -26,7 +26,7 @@ What's working
 
 What's not working
 
-    Audio input (mic)
+    -
 
 References:
 
